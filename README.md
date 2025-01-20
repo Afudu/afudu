@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-- 🧑‍💻 Junior Python Developer with a focus on web development, data analysis, and automation.
+- 🧑‍💻 Junior Python Developer with a focus on web development, and automation.
 - 🎓 Learning new technologies and building innovative solutions.
 - 🌱 Currently exploring Django, Flask, and API development.
 
@@ -11,7 +11,7 @@
 - **Database**: SQLite, PostgreSQL
 - **Testing**: Unit Testing, Postman
 - **Tools**: Git, Docker, Jupyter, PyCharm
-- **Other**: API Development, Data Analysis (Pandas, NumPy), Automation (BeautifulSoup), Object-Oriented Programming (OOP), MVC architecture
+- **Other**: API Development, Automation (BeautifulSoup), Object-Oriented Programming (OOP), MVC architecture
 
 ## 💻 Projects
 Check out my pinned repositories below.
