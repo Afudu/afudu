@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Afudu/afudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🧑‍💻 Junior Python Developer with a focus on web development, data analysis, and automation.
+- 🎓 Learning new technologies and building innovative solutions.
+- 🌱 Currently exploring Django, Flask, and API development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: Python, SQL, Javascript, HTML, CSS
+- **Frameworks**: Django, Flask
+- **Database**: SQLite, PostgreSQL
+- **Testing**: Unit Testing, Postman
+- **Tools**: Git, Docker, Jupyter, PyCharm
+- **Other**: API Development, Data Analysis (Pandas, NumPy), Automation (BeautifulSoup), Object-Oriented Programming (OOP), MVC architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+Check out my pinned repositories below.
