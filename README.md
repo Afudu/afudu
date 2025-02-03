@@ -3,7 +3,8 @@
 ## 🚀 About Me
 - 🧑‍💻 Junior Python Developer with a focus on web development, and automation.
 - 🎓 Learning new technologies and building innovative solutions.
-- 🌱 Currently exploring Django, Flask, and API development.
+
+[//]: # (- 🌱 Currently exploring Django, Flask, and API development.)
 
 ## 🛠️ Skills
 - **Languages**: Python, SQL, Javascript, HTML, CSS
