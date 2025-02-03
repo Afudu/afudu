@@ -7,7 +7,7 @@ compose.yaml
 Dockerfile
 venv
 env_P13/
-AA_Notes/
+Notes/
 
 Docs
 # **/migrations/*
