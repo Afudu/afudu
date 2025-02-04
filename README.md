@@ -8,7 +8,7 @@
 [//]: # (- 🌱 Currently exploring Django, Flask, and API development.)
 
 ## 🛠️ Skills
-- **Languages**: Python, SQL, Javascript, HTML, CSS
+- **Languages**: Python, Javascript, HTML, CSS
 - **Frameworks**: Django, Flask
 - **Database**: SQLite, PostgreSQL
 - **Testing**: Unit Testing, Postman
