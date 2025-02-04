@@ -11,7 +11,7 @@
 - **Languages**: Python, Javascript, HTML, CSS
 - **Frameworks**: Django, Flask
 - **Database**: SQLite, PostgreSQL
-- **Testing**: Unit Testing, Postman
+- **Testing**: PyTest, Postman
 - **Tools**: Git, Docker, Jupyter, PyCharm
 - **Other**: API Development, Automation (BeautifulSoup), Object-Oriented Programming (OOP), MVC architecture
 
